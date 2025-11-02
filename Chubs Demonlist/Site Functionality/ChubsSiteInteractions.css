@@ -1,0 +1,94 @@
+
+#levelsbutton:hover::before {
+    transform: scale(1.2); 
+    box-shadow: 0 0.5vh 1vh rgba(0,0,0,0.25);
+}
+#levelsbutton.clicked {
+    --button-bg-color: #00FFFF; 
+}
+
+#opinionsbutton:hover::before {
+    transform: scale(1.2); 
+    box-shadow: 0 0.5vh 1vh rgba(0,0,0,0.25);
+}
+#opinionsbutton.clicked {
+    --button-bg-color: #00FFFF; 
+}
+#homebutton.clicked {
+    --button-bg-color: #00FFFF; 
+}
+#homebutton:hover::before {
+    transform: scale(1.2); 
+    box-shadow: 0 0.5vh 1vh rgba(0,0,0,0.25);
+}
+
+#cube1:hover {
+    animation: spin var(--spin-duration) linear infinite
+}
+#cube2:hover {
+    animation: spin var(--spin-duration) linear infinite
+}
+.level-name-box:hover {
+    background-color: yellow;
+}
+.disabled {
+    pointer-events: none;
+    opacity: 0;
+    display: none;
+}
+
+.level-entry-wrapper:hover .level-name-box:hover {
+    background-color: var(--hover-color); 
+}
+.level-entry-wrapper.clicked .level-name-box.clicked {
+    background-color: yellow;
+}
+.level-entry-wrapper:hover .level-rank-box,
+.level-entry-wrapper.highlight .level-rank-box {
+    background-color: var(--hover-color); 
+}
+
+.level-entry-wrapper:hover .level-name-box,
+.level-entry-wrapper.highlight .level-name-box {
+    background-color: var(--hover-color); 
+}
+
+/* --- Styles for the SELECTED Level Entry --- */
+
+/* Target the Level Name Box when its parent wrapper is 'selected' */
+.level-entry-wrapper.selected .level-name-box {
+    /* Use the yellow background color */
+    background-color: yellow;
+    /* You might want a stronger border or text color for contrast */
+    border-color: black; 
+    color: black; 
+}
+
+/* Target the Level Rank Box when its parent wrapper is 'selected' */
+.level-entry-wrapper.selected .level-rank-box {
+    /* Use the yellow background color */
+    background-color: yellow;
+    /* You might want a stronger border or text color for contrast */
+    border-color: black; 
+    color: black; 
+}
+
+/* Optional: To maintain a consistent look when selected vs. hovered */
+.level-entry-wrapper.selected:hover .level-name-box,
+.level-entry-wrapper.selected:hover .level-rank-box {
+    /* Prevent the hover effect from overriding the selected yellow */
+    background-color: yellow; 
+}
+
+
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
