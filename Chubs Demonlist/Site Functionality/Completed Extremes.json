@@ -1929,5 +1929,17 @@
     "Enjoyment": 42,	
     "CompletionDate": "30th October 2025",	
     "MaxBPM": 179
+},
+{	
+    "Name": "Solar Flare",	
+    "ExtremeCount": 176,	
+    "WorstDeath": "78%",	
+    "Attempts": 27661,	
+    "Length": "1:05",	
+    "True%": "120%",	
+    "Enjoyment": 65,	
+    "CompletionDate": "2nd November 2025",	
+    "MaxBPM": "N/A"
 }
+
 ]
