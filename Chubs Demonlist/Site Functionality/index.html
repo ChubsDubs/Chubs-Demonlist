@@ -1,0 +1,100 @@
+<html>
+    <!-- CRITICAL FIX: The main HTML file MUST be named index.html for Cloudflare to serve it as the homepage. -->
+    
+    <!-- Scripts -->
+    <script src="ChubsSiteGetElements.js" defer></script> 
+    <script src="ChubsSiteFunctionality.js" defer></script> 
+    <script src="ChubsSiteLevelHandling.js" defer></script>
+    
+    <!-- Fonts: Use a correct Google Fonts link tag -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;700&display=swap" rel="stylesheet">
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="ChubsSiteStats.css">
+    <link rel="stylesheet" href="ChubsSiteStyle.css">
+    <link rel="stylesheet" href="ChubsSiteInteractions.css">
+    <link rel="stylesheet" href="ChubsSiteIconImages.css">
+    
+    <!-- ICON FIX: Removed the incorrect '../' path. Assumes 'GD Icons' is in the same folder as index.html -->
+    <link rel="icon" type="image/x-icon" href="GD Icons/Cube.png">
+    
+    <title> Chubs Site! WIP</title>
+    
+    <body>
+        <div id="levelname">
+            Cataclysm
+        </div>
+        <div id="headblock">
+            <!-- IMAGE FIX: Removed the incorrect '../' path from all image sources -->
+            <img src="GD Icons/Cube.png" id="cube1">
+            <img src="GD Icons/Cube.png" id="cube2">
+            
+            <div id="levelsbutton">
+                <div id="levelsbuttontext"> LEVELS </div> 
+            </div>
+            <div id="opinionsbutton">
+                <div id="opinionsbuttontext"> OPINIONS </div> 
+            </div>
+            <div id="homebutton">
+                <div id="homebuttontext"> HOME </div> 
+            </div>
+        </div>
+        <div id="searchbar">
+            <div id="sortbox">
+                <div id="sortbytext">
+                    Sort By:
+                </div>
+                <select id="sortselect" name="sort">
+                    <option value="date">Date</option>
+                    <option value="aredl">AREDL</option>
+                    <option value="enjoyment">Enjoyment</option>
+                    <option value="length">Length</option>
+                    <!-- Added option for Attempts here previously -->
+                    <option value="attempts">Attempts</option>
+                </select>
+            </div>
+            <input type="text" id="searchinput" placeholder="Search Level Name...">
+        </div>
+        <div id="levelscontainer">
+            <!-- Level entries will be injected here by ChubsSiteLevelHandling.js -->
+        </div>
+        <div id="statistics">
+            <div id="statstext">
+                STATISTICS
+            </div>
+            <div id="extremenum">Extreme #</div>
+            <div id="completiondate">Date</div>
+            <div id="worstdeath">Worst Death</div>
+            <div id="true">True %</div>
+            <div id="attempts">Attempts</div>
+            <div id="length">Length</div>
+            <div id="enjoyment">Enjoyment</div>
+            <div id="heartrate">Max BPM</div>
+            <div id="aredl"> AREDL</div>
+            <div id="extremenumdata"></div>
+            <div id="completiondatedata"></div>
+            <div id="worstdeathdata"></div>
+            <div id="truedata"></div>
+            <div id="attemptsdata"></div>
+            <div id="lengthdata"></div>
+            <div id="enjoymentdata"></div>
+            <div id="heartratedata"></div>
+            <div id="aredldata"></div>
+        </div>
+        <div id="videobox"></div>
+        <div id="summarybox"> Placeholder </div>
+        
+        <!-- IMAGE FIX: Removed the incorrect '../' path from all home screen images -->
+        <img src="GD Icons/Cube.png" id="homecubeimg">
+        <img src="GD Icons/Ship.png" id="homeshipimg">
+        <img src="GD Icons/Ball.png" id="homeballimg">
+        <img src="GD Icons/UFO.png" id="homeufoimg">
+        <img src="GD Icons/Wave.png" id="homewaveimg">
+        <img src="GD Icons/Robot.png" id="homerobotimg">
+        <img src="GD Icons/Spider.png" id="homespiderimg">
+        <img src="GD Icons/Swing.png" id="homeswingimg">
+        <img src="GD Icons/Jetpack.png" id="homejetpackimg">
+    </body>
+</html>
