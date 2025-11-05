@@ -1,0 +1,66 @@
+#homecubeimg {
+    position: absolute;
+    top: 15vh;
+    left: 2vw;
+    height: 7.5vw;
+    width: auto;
+}
+#homeshipimg {
+    position: absolute;
+    top: 17.5vh;
+    left: 11vw;
+    height: 5vw;
+    width: auto;
+}
+#homeballimg {
+    position: absolute;
+    top: 15vh;
+    left: 22.5vw;
+    height: 7.5vw;
+    width: auto;
+}
+#homeufoimg {
+    position: absolute;
+    top: 32.5vh;
+    left: 1.5vw;
+    height: 7.5vw;
+    width: auto;
+}
+#homewaveimg {
+    position: absolute;
+    top: 35vh;
+    left: 12vw;
+    height: 5vw;
+    width: auto;
+}
+#homerobotimg {
+    position: absolute;
+    top: 32.5vh;
+    left: 22.5vw;
+    height: 7.5vw;
+    width: auto;
+}
+#homespiderimg {
+    position: absolute;
+    top: 50vh;
+    left: 1.5vw;
+    height: 6.5vw;
+    width: auto;
+}
+#homeswingimg {
+    position: absolute;
+    top: 50vh;
+    left: 13vw;
+    height: 7.5vw;
+    width: auto;
+}
+#homejetpackimg {
+    position: absolute;
+    top: 50vh;
+    left: 22.5vw;
+    height: 7.5vw;
+    width: auto;
+}
+
+
+
