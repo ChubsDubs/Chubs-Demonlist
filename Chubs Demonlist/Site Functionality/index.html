@@ -1,36 +1,21 @@
 <html>
-    <!-- CRITICAL FIX: The main HTML file MUST be named index.html for Cloudflare to serve it as the homepage. -->
-    
-    <!-- Scripts -->
     <script src="ChubsSiteGetElements.js" defer></script> 
     <script src="ChubsSiteFunctionality.js" defer></script> 
     <script src="ChubsSiteLevelHandling.js" defer></script>
-    
-    <!-- Fonts: Use a correct Google Fonts link tag -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;700&display=swap" rel="stylesheet">
-    
-    <!-- Stylesheets -->
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;700&display=swap">
     <link rel="stylesheet" href="ChubsSiteStats.css">
     <link rel="stylesheet" href="ChubsSiteStyle.css">
     <link rel="stylesheet" href="ChubsSiteInteractions.css">
     <link rel="stylesheet" href="ChubsSiteIconImages.css">
-    
-    <!-- ICON FIX: Removed the incorrect '../' path. Assumes 'GD Icons' is in the same folder as index.html -->
     <link rel="icon" type="image/x-icon" href="GD Icons/Cube.png">
-    
     <title> Chubs Site! WIP</title>
-    
     <body>
         <div id="levelname">
             Cataclysm
         </div>
         <div id="headblock">
-            <!-- IMAGE FIX: Removed the incorrect '../' path from all image sources -->
             <img src="GD Icons/Cube.png" id="cube1">
             <img src="GD Icons/Cube.png" id="cube2">
-            
             <div id="levelsbutton">
                 <div id="levelsbuttontext"> LEVELS </div> 
             </div>
@@ -41,24 +26,27 @@
                 <div id="homebuttontext"> HOME </div> 
             </div>
         </div>
-        <div id="searchbar">
-            <div id="sortbox">
-                <div id="sortbytext">
-                    Sort By:
-                </div>
-                <select id="sortselect" name="sort">
-                    <option value="date">Date</option>
-                    <option value="aredl">AREDL</option>
-                    <option value="enjoyment">Enjoyment</option>
-                    <option value="length">Length</option>
-                    <!-- Added option for Attempts here previously -->
-                    <option value="attempts">Attempts</option>
-                </select>
-            </div>
-            <input type="text" id="searchinput" placeholder="Search Level Name...">
+        <div id="sortbox">
+            <div id="sortbytext"> SORT BY: </div>
+            <select id="sortselect">
+                <option value="date"> DATE </option>
+                <option value="aredl"> AREDL </option>
+                <option value="length"> LENGTH </option>
+                <option value="enjoyment"> ENJOYMENT </option>
+                <option value="attempts"> ATTEMPTS </option>
+            </select>
         </div>
+        <div id="searchbar">
+            <img src="MagnifyingGlass.png" id="MagGlass">
+            <input 
+            type="text" 
+            id="searchinput" 
+            placeholder="Search for a level..." 
+            onkeyup="handleSearch()"
+        >
+        </div>
+        
         <div id="levelscontainer">
-            <!-- Level entries will be injected here by ChubsSiteLevelHandling.js -->
         </div>
         <div id="statistics">
             <div id="statstext">
@@ -85,8 +73,6 @@
         </div>
         <div id="videobox"></div>
         <div id="summarybox"> Placeholder </div>
-        
-        <!-- IMAGE FIX: Removed the incorrect '../' path from all home screen images -->
         <img src="GD Icons/Cube.png" id="homecubeimg">
         <img src="GD Icons/Ship.png" id="homeshipimg">
         <img src="GD Icons/Ball.png" id="homeballimg">
