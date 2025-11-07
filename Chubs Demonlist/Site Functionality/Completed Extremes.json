@@ -106,7 +106,8 @@
     "True%": "107%",	
     "Enjoyment": 82,	
     "CompletionDate": "29th October 2021",	
-    "MaxBPM": "N/A"	
+    "MaxBPM": "N/A",
+    "Summary": "This was my favourite extreme demon for a long time. The gameplay and the song and the deco all go hand in hand. The predrop being super hard wasn't even that bad of an issue for me. The gameplay is really accessible and I really liked the doubleclicks in it. This level is also really mobile friendly which was very good for me at the time. I also really love the song for this level and I highly recommend this level to anyone who is good enough."
 },
 {	
     "Name": "Falling Up",	
@@ -117,7 +118,8 @@
     "True%": "109%",	
     "Enjoyment": 87,	
     "CompletionDate": "9th November 2021",	
-    "MaxBPM": "N/A"	
+    "MaxBPM": "N/A",
+    "Summary": "N/A"
 },
 {	
     "Name": "Dolos",	
@@ -1951,3 +1953,4 @@
     "MaxBPM": "N/A"
 }
 ]
+
