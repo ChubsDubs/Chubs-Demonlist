@@ -288,7 +288,7 @@ body {
 
 
 .level-name-box {
-    flex-grow: 1; 
+    flex-shrink: 1; 
     position: relative;
     height: 5vh;
     padding-left: 1vh;
@@ -380,3 +380,4 @@ body {
     scrollbar-width: 0vh;
 
 }
+
