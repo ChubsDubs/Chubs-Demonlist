@@ -263,7 +263,8 @@
     "True%": "102%",	
     "Enjoyment": 79,	
     "CompletionDate": "23rd February 2023",	
-    "MaxBPM": "N/A"	
+    "MaxBPM": "N/A",
+    "Summary": "This is a classic. This level means so much to me and I am so glad that I beat it. The waves are actually really fun to play and even the ball, as annoying as it is, was really good once I got it down. I love the vibe that this level gives because of it being one of the old beasts from 2015-2016, and it just gives me such a sense of nostalgia whenever I play it. I love this level so much and I hope that everyone that is good enough decides to go for this level as it is such a good feeling to beat such an iconic level, and I highly recommend it."
 },
 {	
     "Name": "Forbidden Isle",	
@@ -274,7 +275,8 @@
     "True%": "108%",	
     "Enjoyment": 79,	
     "CompletionDate": "24th February 2023",	
-    "MaxBPM": "N/A"	
+    "MaxBPM": "N/A",
+    "Summary": "This level is a okay, the gameplay is decently fun and the atmosphere of this level is really good. I just think that there were a few clicks that were way harder than the others. Thankfully I beat this pretty quickly so that I didn't have to deal with them that much. Anyways, while this level is okay I dont think I'd really recommend this as this level is very hit or miss."
 },
 {	
     "Name": "Sonic Wave Rebirth",	
@@ -285,7 +287,8 @@
     "True%": "102%",	
     "Enjoyment": 82,	
     "CompletionDate": "24th February 2023",	
-    "MaxBPM": "N/A"	
+    "MaxBPM": "N/A",
+    "Summary": "While I love Sonic Wave, this level doesn't work very well. The decoration is just obstructive and the slopes are just invisible half of the time. The gameplay just isn't as fun because of the obstructive decoration. I would recommend this if you are confident in your abilities to rebeat Sonic Wave pretty easily, but other than that, I think this level is a bit sub-par."
 },
 {	
     "Name": "Place",	
@@ -1975,6 +1978,7 @@
     "MaxBPM": "N/A"
 }
 ]
+
 
 
 
