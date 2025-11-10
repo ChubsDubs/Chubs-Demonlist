@@ -239,7 +239,8 @@
     "True%": "123%",	
     "Enjoyment": 83,	
     "CompletionDate": "1st February 2023",	
-    "MaxBPM": "N/A"	
+    "MaxBPM": "N/A",
+    "Summary": "This level is really good. The song and the decoration and the gameplay go hand in hand to create a very fun and exjoyable experience. The duals are really satisying to learn and the predrop being really short make for always being engaged in the level due to getting far almost every single attempt. This level is atmospherically a masterpiece and there isn't many flaws with the gameplay. This level is a great experience and I highly recommend this level."
 },
 {	
     "Name": "RUST",	
@@ -250,7 +251,8 @@
     "True%": "104%",	
     "Enjoyment": 96,	
     "CompletionDate": "22nd February 2023",	
-    "MaxBPM": "N/A"	
+    "MaxBPM": "N/A",
+    "Summary": "This level is absolutely amazing. The decoration and the song are just excellent and the gameplay is super satisfying to do and it is really well made for a level that is this gimmicky. The doubleclicks in this level are also really well executed and the balancing in this level being middle-light makes for a really nervewracking experience which is really exciting. This level is top-notch in quality and this is one of my favourite extreme demons. I highly recommend."
 },
 {	
     "Name": "Sonic Wave",	
@@ -1973,6 +1975,7 @@
     "MaxBPM": "N/A"
 }
 ]
+
 
 
 
