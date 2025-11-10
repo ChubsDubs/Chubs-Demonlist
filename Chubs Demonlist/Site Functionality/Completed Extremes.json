@@ -299,7 +299,8 @@
     "True%": "107%",	
     "Enjoyment": 29,	
     "CompletionDate": "25th February 2023",	
-    "MaxBPM": "N/A"	
+    "MaxBPM": "N/A",
+    "Summary": "While I find this level really funny, and think that it is an amazing concept, it really just isn't good in practice. The level is super jank and the actual routes are super hard and any other route is just awful to play and feels like a lottery. I beat it one of the lottery ways and it was a pain. I don't think that this level was really made to be played. This is not the bet experience and I really don't recommend it."
 },
 {	
     "Name": "New Record",	
@@ -310,7 +311,8 @@
     "True%": "102%",	
     "Enjoyment": 92,	
     "CompletionDate": "25th February 2023",	
-    "MaxBPM": "N/A"	
+    "MaxBPM": "N/A",
+    "Summary": "Personally, I love the high CPS sync in this level. The drop is super fun to play and it goes super well with the song. More people need to play this and I really don't see the reason for the hate that this level gets. None of the gameplay is that bad and the rest of the level is just so good that it makes for a really enjoyable experience and I highly recommend this."
 },
 {	
     "Name": "Sakupen Hell",	
@@ -1978,6 +1980,7 @@
     "MaxBPM": "N/A"
 }
 ]
+
 
 
 
