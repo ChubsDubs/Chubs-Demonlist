@@ -2115,7 +2115,7 @@
     "CompletionDate": "31st January 2026",	
     "MaxBPM": "N/A"	
 },	{	
-    "Name": "Slaughterhouse ",	
+    "Name": "Slaughterhouse",	
     "ExtremeCount": 191,	
     "WorstDeath": "90%",	
     "Attempts": 64408,	
@@ -2126,6 +2126,7 @@
     "MaxBPM": 162	
     }
 ]
+
 
 
 
