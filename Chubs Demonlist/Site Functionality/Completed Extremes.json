@@ -2003,8 +2003,130 @@
     "CompletionDate": "21st November 2025",	
     "MaxBPM": "N/A",
     "Summary": "This level is interesting. I really like the decoration and the song in this level. The gameplay does feel a bit segmented though, like it just feels like nothing really flows together and everything is its own separate part, so I'm not sure what to make of it. Overall though this level is actually pretty fun and I recommend beating this."
-}
+},
+    {	
+    "Name": "Freedom08",	
+    "ExtremeCount": 180,	
+    "WorstDeath": "79%",	
+    "Attempts": 2827,	
+    "Length": "4:20",	
+    "True%": "121%",	
+    "Enjoyment": 81,	
+    "CompletionDate": "8th December 2025",	
+    "MaxBPM": "N/A"	
+},	{	
+    "Name": "Abandoned Planet",	
+    "ExtremeCount": 181,	
+    "WorstDeath": "86%",	
+    "Attempts": 768,	
+    "Length": "1:52",	
+    "True%": "130%",	
+    "Enjoyment": 79,	
+    "CompletionDate": "20th December 2025",	
+    "MaxBPM": "N/A"	
+},	{	
+    "Name": "PLUS ULTRA",	
+    "ExtremeCount": 182,	
+    "WorstDeath": "94%",	
+    "Attempts": 981,	
+    "Length": "1:34",	
+    "True%": "174%",	
+    "Enjoyment": 95,	
+    "CompletionDate": "24th December 2025",	
+    "MaxBPM": "N/A"	
+},	{	
+    "Name": "Astral Divinity",	
+    "ExtremeCount": 183,	
+    "WorstDeath": "80%",	
+    "Attempts": 747,	
+    "Length": "1:30",	
+    "True%": "113%",	
+    "Enjoyment": 54,	
+    "CompletionDate": "25th December 2025",	
+    "MaxBPM": "N/A"	
+},	{	
+    "Name": "Aura",	
+    "ExtremeCount": 184,	
+    "WorstDeath": "88%",	
+    "Attempts": 843,	
+    "Length": "1:02",	
+    "True%": "126%",	
+    "Enjoyment": 81,	
+    "CompletionDate": "26th December 2025",	
+    "MaxBPM": "N/A"	
+},	{	
+    "Name": "ROCKY ROAD",	
+    "ExtremeCount": 185,	
+    "WorstDeath": "84%",	
+    "Attempts": 3334,	
+    "Length": "1:33",	
+    "True%": "135%",	
+    "Enjoyment": 92,	
+    "CompletionDate": "31st December 2025",	
+    "MaxBPM": "N/A"	
+},	{	
+    "Name": "wires",	
+    "ExtremeCount": 186,	
+    "WorstDeath": "77%",	
+    "Attempts": 1246,	
+    "Length": "3:06",	
+    "True%": "147%",	
+    "Enjoyment": 75,	
+    "CompletionDate": "13th January 2026",	
+    "MaxBPM": "N/A"	
+},	{	
+    "Name": "eclipse",	
+    "ExtremeCount": 187,	
+    "WorstDeath": "84%",	
+    "Attempts": 462,	
+    "Length": "1:08",	
+    "True%": "135%",	
+    "Enjoyment": 70,	
+    "CompletionDate": "21st January 2026",	
+    "MaxBPM": "N/A"	
+},	{	
+    "Name": "rosedynamix",	
+    "ExtremeCount": 188,	
+    "WorstDeath": "94%",	
+    "Attempts": 2398,	
+    "Length": "1:11",	
+    "True%": "107%",	
+    "Enjoyment": 73,	
+    "CompletionDate": "23rd January 2026",	
+    "MaxBPM": "N/A"	
+},	{	
+    "Name": "chrome hearts",	
+    "ExtremeCount": 189,	
+    "WorstDeath": "82%",	
+    "Attempts": 5819,	
+    "Length": "2:35",	
+    "True%": "108%",	
+    "Enjoyment": 39,	
+    "CompletionDate": "29th January 2026",	
+    "MaxBPM": "N/A"	
+},	{	
+    "Name": "Final Round",	
+    "ExtremeCount": 190,	
+    "WorstDeath": "73%",	
+    "Attempts": 478,	
+    "Length": "0:43",	
+    "True%": "107%",	
+    "Enjoyment": 73,	
+    "CompletionDate": "31st January 2026",	
+    "MaxBPM": "N/A"	
+},	{	
+    "Name": "Slaughterhouse ",	
+    "ExtremeCount": 191,	
+    "WorstDeath": "90%",	
+    "Attempts": 64408,	
+    "Length": "1:10",	
+    "True%": "106%",	
+    "Enjoyment": 43,	
+    "CompletionDate": "9th February 2026",	
+    "MaxBPM": 162	
+},	
 ]
+
 
 
 
