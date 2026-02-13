@@ -2124,8 +2124,20 @@
     "Enjoyment": 43,	
     "CompletionDate": "9th February 2026",	
     "MaxBPM": 162	
-    }
+    },
+    {	
+    "Name": "Paranoid Android",	
+    "ExtremeCount": 192,	
+    "WorstDeath": "85%",	
+    "Attempts": 864,	
+    "Length": "5:42",	
+    "True%": "106%",	
+    "Enjoyment": 90,	
+    "CompletionDate": "12th February 2026",	
+    "MaxBPM": 151	
+},	
 ]
+
 
 
 
