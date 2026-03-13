@@ -2166,28 +2166,35 @@
     "Enjoyment": 72,	
     "CompletionDate": "21st February 2026",	
     "MaxBPM": "N/A"	
+},{	
+    "Name": "Natural Disaster",	
+    "ExtremeCount": 196,	
+    "WorstDeath": "61%",	
+    "Attempts": 10617,	
+    "Length": "1:21",	
+    "True%": "106%",	
+    "Enjoyment": 63,	
+    "CompletionDate": "28th February 2026",	
+    "MaxBPM": "N/A"	
+},	{	
+    "Name": "Crowd Control",	
+    "ExtremeCount": 197,	
+    "WorstDeath": "98%",	
+    "Attempts": 1388,	
+    "Length": "1:03",	
+    "True%": "100%",	
+    "Enjoyment": 81,	
+    "CompletionDate": "10th March 2026",	
+    "MaxBPM": "N/A"	
+},	{	
+    "Name": "Loops of Fury",	
+    "ExtremeCount": 198,	
+    "WorstDeath": "68%",	
+    "Attempts": 10626,	
+    "Length": "2:13",	
+    "True%": "100%",	
+    "Enjoyment": 95,	
+    "CompletionDate": "12th March 2026",	
+    "MaxBPM": "N/A"	
 }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
