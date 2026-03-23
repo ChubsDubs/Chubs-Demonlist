@@ -2196,5 +2196,15 @@
     "Enjoyment": 95,	
     "CompletionDate": "12th March 2026",	
     "MaxBPM": "N/A"	
-}
+},{	
+    "Name": "Sonic Wave Infinity",	
+    "ExtremeCount": 199,	
+    "WorstDeath": "78%",	
+    "Attempts": 6218,	
+    "Length": "2:28",	
+    "True%": "101%",	
+    "Enjoyment": 60,	
+    "CompletionDate": "15th March 2026",	
+    "MaxBPM": 150	
+},	
 ]
