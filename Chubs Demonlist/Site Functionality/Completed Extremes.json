@@ -2205,9 +2205,8 @@
     "True%": "101%",	
     "Enjoyment": 60,	
     "CompletionDate": "15th March 2026",	
-    "MaxBPM": 150	
-,
-        {	
+    "MaxBPM": 150
+},{	
     "Name": "LIMBO",	
     "ExtremeCount": 200,	
     "WorstDeath": "54%",	
