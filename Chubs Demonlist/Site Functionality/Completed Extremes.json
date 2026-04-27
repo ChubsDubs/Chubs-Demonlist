@@ -2260,5 +2260,16 @@
     "Enjoyment": 56,	
     "CompletionDate": "19th April 2026",	
     "MaxBPM": "N/A"	
-}	
+},
+    {	
+    "Name": "Fun Friday",	
+    "ExtremeCount": 205,	
+    "WorstDeath": "87%",	
+    "Attempts": 413,	
+    "Length": "1:19",	
+    "True%": "107%",	
+    "Enjoyment": 77,	
+    "CompletionDate": "25th April 2026",	
+    "MaxBPM": "N/A"	
+}
 ]
